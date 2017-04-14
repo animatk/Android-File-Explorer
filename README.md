@@ -1,0 +1,16 @@
+# Android File Explorer
+
+Is a simple app to get a list of directories from the android file system, there must request permission from user to get access to the file system; support android 4.4 (kitkat) and upper.
+
+```This was created for learning purposes is not under licence, You are free to download.```
+
+## Development Features
+```
+- Support Android 6 (Requesting permissions at run time)
+- Custom class and custom Adapter to show in GridView
+```
+## Screenshots
+
+[![N|Solid](https://lh3.googleusercontent.com/DCN5v98D7Epn1CCoHFXxhV9ZPIkljqy5zbP-mhvyigVOK6N0MtPPIE_pd26zcO6_W454beK_QwF2uAphUxzvgM8-okG9ntHcKgZjF5emDbPbu98s5UNee1spTX22kZ85rbRMzuPejEDBMXGZyPeNdWNvfHHXzOhAQOfk43PM8ReQanHjGtrWV9clGXDaLkOUxgKs3l3o59bknIFmn8rFDVa1SM5vOkpiQzCcLkt47hx25Ku7VPtg4JWLRYE2KFwfNCVnK_vyuaUlhJreoeL7XG5jJv6QZlzL6MVajhb_pR-Oyr32CEORbKSNW1HrlNWDo54qM4kaQO1BFXRyH2943reN0WPBoiYQQR7nHyGdNWEvtyEMyrZ79D-aTi-21z4tzvrbFYj0OQuLwHfB9gnMp-ZjQr-X_p-lQmE9T8Wz9OGUq_jQB_ajVoqy208k4A72Kn2kst6pmRqPog06l8IwxpeJkcNSNlY0XQaMNLSdM0hGXPeKUUWJ7Gl15efMKW9Gg04OWs09KrHg_C83A5TWVJ8gxUKCY_dLUCY64ZNalsCHkChXAna1MORVgVD4QltugtQvyYAxq0pvLhxpYtJE_hspDfVx7bPejcNcizOQJarZfeMy9VQr=w377-h628-no)](https://goo.gl/photos/s6EdrXq1QqtpoSfD6)
+
+[![N|Solid](https://lh3.googleusercontent.com/TshEZ3r4JrveGVHxmo3D6heiEfsVyoBuHc6X4EnIgzWzp7D-kA7t6bIIrezSURsMBhFyQbi_m6EB5VJqwxN7bSq2l033MKcfEArhzSiJyTvd5t6mrwke8BYXD_4C76FSLtKoBENzPMHYEe1aUDpxxYmez9aI5mPU1M1m2G7zspbpe910Xqr0o-6ZI7Fxeq_Mvq4SJHtRsvXZA7Z-BPnwOYv-YP-yyvrZmgm1G8078elehlUpgEK30kNrL1dKab9Ke7HloqxfMw27lnkeMsDHjqBPEZJXJzFB6INg2JIGbAw9oW9FcDJKK8JLHhX738Q0sZhfuaDKM7O7fAPlGPWUC6JtMF_XglZBD0rAPSDxOuzsE3-5xXfto9_g5xeUpCe7tEt4vUtVzgUunR6RwCBkzio6lRn03UOy5pHr9DXc9uznUHgneuB76070VoVOF3ybjOJMZDs8Z9ihjYDWtOE4R23GSutlRdxDJt9LqjZ5CBwybdum5_DwOrh6MPsW0MzbL9J8m-jYzhru_m4ZyzfT99fK_rxvnmlFu-vjTjP66CyDJ1FKBmBy7SArgy_obvaX1OliIcBRt6wKopSJfwLBf_ZXTJSnw8NgNvZymRSYA9rutaittyJU=w920-h575-no)](https://goo.gl/photos/dD5RkYaQng6nq9BL9)
