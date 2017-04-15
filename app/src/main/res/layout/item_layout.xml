@@ -29,6 +29,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
+                android:maxLines="1"
                 android:text="Archivo o Directorio"
                 android:textColor="@android:color/black"
                 android:textSize="20dp" />
@@ -50,6 +51,6 @@
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_alignParentBottom="true"
-        android:background="@android:color/darker_gray"></FrameLayout>
+        android:background="?attr/colorControlHighlight"></FrameLayout>
 
 </RelativeLayout>
